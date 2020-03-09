@@ -1,6 +1,6 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
 [![Build Status](https://dev.azure.com/tomsheeran0200/ContosoAir/_apis/build/status/tsheeran1.ContosoAir?branchName=master)](https://dev.azure.com/tomsheeran0200/ContosoAir/_build/latest?definitionId=2&branchName=master)
+
+# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 # Microsoft.Github CI Demo
 
